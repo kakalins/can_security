@@ -209,5 +209,6 @@ __marimo__/
 # Some custom ignores
 best*
 confusion*
-*.pkl
 *.csv
+dataset/
+models/
