@@ -207,8 +207,29 @@ marimo/_lsp/
 __marimo__/
 
 # Some custom ignores
-best*
-confusion*
+analise.py
+testing.py
+training_eif_v6.py
+test_*.py
 *.csv
-dataset/
+moved_outputs
+dataset/4TU
+dataset/CAN-Intrusion Dataset
+dataset/car_hacking
+dataset/M_CAN
+dataset/preprocessed/car_hacking/old
+models/car_hacking/fast
+models/car_hacking/complete
+models/car_hacking/online_if/fast
+models/M_CAN/fast
+models/M_CAN/online_if/fast
+plots/car_hacking/fast
+plots/car_hacking/online_if/fast
+plots/M_CAN/fast
+plots/M_CAN/online_if/fast
+
+dataset/preprocessed/
 models/
+old_code/preprocess_UAVCAN_dataset.py
+old_code/training_if_UAVCAN.py
+plots/
