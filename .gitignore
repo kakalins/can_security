@@ -232,4 +232,3 @@ dataset/preprocessed/
 models/
 old_code/preprocess_UAVCAN_dataset.py
 old_code/training_if_UAVCAN.py
-plots/
