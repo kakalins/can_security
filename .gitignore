@@ -230,5 +230,4 @@ plots/M_CAN/online_if/fast
 
 dataset/preprocessed/
 models/
-old_code/preprocess_UAVCAN_dataset.py
-old_code/training_if_UAVCAN.py
+old_code/
